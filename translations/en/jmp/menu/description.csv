@@ -1,41 +1,57 @@
 index,source,target
 0,"Jump to another Land
-in the same World.",
-1,Jump to another Mezeporta World.,
-2,Jump to Quest Board.,
-3,Jump to Bounty Board.,
-4,Jump to your Clan Hall.,
-5,Jump to House.,
+in the same World.","Jump to another Land
+in the same World."
+1,Jump to another Mezeporta World.,Jump to another Mezeporta World.
+2,Jump to Quest Board.,Jump to Quest Board.
+3,Jump to Bounty Board.,Jump to Bounty Board.
+4,Jump to your Clan Hall.,Jump to your Clan Hall.
+5,Jump to House.,Jump to House.
 6,"Jump to Workshop.
-（Cannot be used during Mission）",
+（Cannot be used during Mission）","Jump to Workshop.
+（Cannot be used during Mission）"
 7,"Jump to Harisen Felyne (Workshop).
-（Cannot be used during Mission）",
-8,Jump to Mezeporta Square.,
+（Cannot be used during Mission）","Jump to Harisen Felyne (Workshop).
+（Cannot be used during Mission）"
+8,Jump to Mezeporta Square.,Jump to Mezeporta Square.
 9,"Jump to Pallone Caravan.
 （Unavailable in Novice World）
-（Unlocked at HR2）",
+（Unlocked at HR2）","Jump to Pallone Caravan.
+（Unavailable in Novice World）
+（Unlocked at HR2）"
 10,"Jump to Gallery.
-（Unavailable in Novice World）",
-11,Jump to Garden.,
+（Unavailable in Novice World）","Jump to Gallery.
+（Unavailable in Novice World）"
+11,Jump to Garden.,Jump to Garden.
 12,"Jump to Tore.
-（Unlocked at HR4）",
+（Unlocked at HR4）","Jump to Tore.
+（Unlocked at HR4）"
 13,"Jump to Support.
 （Unavailable on another's
-　Facilities）",
+　Facilities）","Jump to Support.
+（Unavailable on another's
+　Facilities）"
 14,"Jump to Missions.
-（Unlocked at HR5）",
+（Unlocked at HR5）","Jump to Missions.
+（Unlocked at HR5）"
 15,"Jump to Public Bar.
-（Public Bar―My Facilities Only）",
+（Public Bar―My Facilities Only）","Jump to Public Bar.
+（Public Bar―My Facilities Only）"
 16,"Jump to Exchange Bar.
-（Exchange Bar―My Facilities Only）",
+（Exchange Bar―My Facilities Only）","Jump to Exchange Bar.
+（Exchange Bar―My Facilities Only）"
 17,"Jump to Public Bar Entrance.
-（Tavern World Only）",
+（Tavern World Only）","Jump to Public Bar Entrance.
+（Tavern World Only）"
 18,"Jump to Exchange Bar Entrance.
-（Cities World Only）",
-19,Jump to Quest Board.,
-20,Jump to Boss Kiel.,
+（Cities World Only）","Jump to Exchange Bar Entrance.
+（Cities World Only）"
+19,Jump to Quest Board.,Jump to Quest Board.
+20,Jump to Boss Kiel.,Jump to Boss Kiel.
 21,"Jump to another Mezeporta Fest
-in the same World.",
+in the same World.","Jump to another Mezeporta Fest
+in the same World."
 22,"Jump to another Land
-in the same World.",
-23,Jump to another Mezeporta World.,
+in the same World.","Jump to another Land
+in the same World."
+23,Jump to another Mezeporta World.,Jump to another Mezeporta World.

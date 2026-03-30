@@ -1,6 +1,6 @@
 index,source,target
-0,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice,
-1,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice,
-2,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice,
-3,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice,
-4,{c10}Items{j}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Unpause{j}Advice,
+0,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice
+1,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice
+2,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice
+3,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice
+4,{c10}Items{j}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Unpause{j}Advice,{c10}Items{j}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Unpause{j}Advice

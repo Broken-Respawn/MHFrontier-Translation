@@ -1,4 +1,4 @@
 index,source,target
-0,Discard{j}Swap{j}Send,
-1,{c10}Discard{j}Swap{j}Send,
-2,Discard{j}Swap{j}{c10}Send,
+0,Discard{j}Swap{j}Send,Discard{j}Swap{j}Send
+1,{c10}Discard{j}Swap{j}Send,{c10}Discard{j}Swap{j}Send
+2,Discard{j}Swap{j}{c10}Send,Discard{j}Swap{j}{c10}Send

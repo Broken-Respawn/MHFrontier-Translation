@@ -1,13 +1,13 @@
 index,source,target
-0,Discard{j}Give{j}Swap{j}Send{j}Bind F Key,
-1,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}Bind F Key,
-2,{c10}Discard{j}Give{j}Swap{j}Send{j}Bind F Key,
-3,Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind,
-4,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}{c10}F Key Bind,
-5,{c10}Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind,
-6,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key,
-7,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}Bind F Key,
-8,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key,
-9,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,
-10,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,
-11,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,
+0,Discard{j}Give{j}Swap{j}Send{j}Bind F Key,Discard{j}Give{j}Swap{j}Send{j}Bind F Key
+1,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}Bind F Key,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}Bind F Key
+2,{c10}Discard{j}Give{j}Swap{j}Send{j}Bind F Key,{c10}Discard{j}Give{j}Swap{j}Send{j}Bind F Key
+3,Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind,Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind
+4,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}{c10}F Key Bind,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}{c10}F Key Bind
+5,{c10}Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind,{c10}Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind
+6,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key
+7,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}Bind F Key,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}Bind F Key
+8,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key
+9,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind
+10,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind
+11,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind

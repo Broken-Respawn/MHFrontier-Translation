@@ -1,7 +1,7 @@
 index,source,target
-0,Frontier Type,
-1,Classic Type,
-2,Numpad Type,
-3,No Numpad Type,
-4,Padless Type,
-5,Chat-Only Type,
+0,Frontier Type,Frontier Type
+1,Classic Type,Classic Type
+2,Numpad Type,Numpad Type
+3,No Numpad Type,No Numpad Type
+4,Padless Type,Padless Type
+5,Chat-Only Type,Chat-Only Type

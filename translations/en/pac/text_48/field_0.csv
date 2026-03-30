@@ -1,424 +1,424 @@
 index,source,target
-0,None,
-1,Novice,
-2,Veteran,
-3,Skilled Hunter,
-4,Vagrant,
-5,Stranger,
-6,Ranger,
-7,Rookie Hunter,
-8,Woodsman,
-9,Warden,
-10,Beast Slayer,
-11,Bone Duster,
-12,Warrior,
-13,Bullfighter,
-14,Berserker,
-15,Mercenary,
-16,Bounty Hunter,
-17,Veteran Attacker,
-18,Iron Breaker,
-19,Samurai,
-20,Grand Walker,
-21,Strider,
-22,Explorer,
-23,Forest Guardian,
-24,Road of Hunter,
-25,Glorious Braver,
-26,Champion,
-27,Hero,
-28,Monster Hunter,
-29,Legend,
-30,Bourgeois Hunter,
-31,Dedicated Hunter,
-32,Combination Sage,
-33,Gourmand,
-34,Royal Host,
-35,Popular,
-36,Arm Wrestler,
-37,Heavy Drinker,
-38,Sniper,
-39,Treasure Hunter,
-40,Mayoral Candidate,
-41,Velocidrome Hunter,
-42,Gendrome Hunter,
-43,Iodrome Hunter,
-44,Bulldrome Hunter,
-45,Kut-Ku Hunter,
-46,Gypceros Hunter,
-47,Cephadrome Hunter,
-48,Rathian Hunter,
-49,Khezu Hunter,
-50,Plesioth Hunter,
-51,Monoblos Hunter,
-52,Diablos Hunter,
-53,Basarios Hunter,
-54,Gravios Hunter,
-55,Rathalos Hunter,
-56,Kirin Hunter,
-57,Garuga Hunter,
-58,Daimyo Hunter,
-59,Shogun Hunter,
-60,Blangonga Hunter,
-61,Congalala Hunter,
-62,Kushala Hunter,
-63,Chameleos Hunter,
-64,Teo Hunter,
-65,Luna Hunter,
-66,Blue Claws,
-67,Green Fangs,
-68,Red Poison,
-69,Reckless,
-70,Red Bird,
-71,Flash,
-72,Desert Sand,
-73,Wyvern Princess,
-74,White Shadow,
-75,Torrent,
-76,One-Horn,
-77,Twin Demon,
-78,Hidden Rock,
-79,Flaming Mountain,
-80,Monarch,
-81,Thunder God,
-82,Black Wolf,
-83,Solid Shield,
-84,Sharp Sword,
-85,Strength,
-86,Clown,
-87,Storm,
-88,Iridescence,
-89,Flame Emperor,
-90,Hellfire,
-91,Gold,
-92,Windstorm,
-93,Walking Fortress,
-94,Approaching Dragon,
-95,Floating Mountain,
-96,Dragon Killer,
-97,Dragon King,
-98,Dragon Emperor,
-99,Capture God,
-100,Giant,
-101,Gigantic,
-102,King of Kings,
-103,Big King,
-104,Master of Giants,
-105,Titan,
-106,Micro,
-107,Minimum,
-108,Chicken of Chicken,
-109,Sword and Shield Maniac,
-110,Greatsword Maniac,
-111,Lance Maniac,
-112,Hammer Maniac,
-113,Dual Blade Maniac,
-114,Light Bowgun Maniac,
-115,Heavy Bowgun Maniac,
-116,Longsword Maniac,
-117,Bow Maniac,
-118,Gunlance Maniac,
-119,Hunting Horn Maniac,
-120,Weapon Master,
-121,Well Dressed,
-122,Fashion Leader,
-123,Dr. Mushroom,
-124,Mushroom Master,
-125,Egg Thief,
-126,Crystal Hunter,
-127,Danger Hunter,
-128,Alpinist,
-129,Mule,
-130,Jungle Guide,
-131,Desert Guide,
-132,Swamp Guide,
-133,Mountain Guide,
-134,Volcano Guide,
-135,Forest & Hills Guide,
-136,Dojo Point Earner,
-137,Dojo Coin Master,
-138,Dojo High Scorer,
-139,Dojo Teacher,
-140,Dojo Instructor,
-141,Beast Master,
-142,Beast Failure,
-143,Guild Knight,
-144,Guild's Trumpcard,
-145,Jumbo Hero,
-146,Tavern Hero,
-147,Hero of Dundorma,
-148,Hypnoc Hunter,
-149,Volganos Hunter,
-150,Tigrex Hunter,
-151,Akantor Hunter,
-152,Espinas Hunter,
-153,Akura Hunter,
-154,Berukyurosu Hunter,
-155,Pariapuria Hunter,
-156,Kamu Hunter,
-157,Nono Hunter,
-158,Dyuragaua Hunter,
-159,Gurenzeburu Hunter,
-160,Rukodiora Hunter,
-161,Gogomoa Hunter,
-162,Deep Sleep,
-163,Lava,
-164,Roaring Tiger,
-165,Overlord,
-166,Awakening,
-167,Metamorphosis,
-168,Thunder,
-169,Binge Eater,
-170,Twin Fangs,
-171,Twin Roars,
-172,Ice Attack,
-173,Waterfall,
-174,Two Poles,
-175,Leaping Shadow,
-176,King's Fang,
-177,Phantom Hunter,
-178,Impulses,
-179,Great Forest Guide,
-180,Canyon Guide,
-181,Highlands Guide,
-182,Tidal Island Guide,
-183,Familial Love,
-184,Hunter of Legend,
-185,Sword & Shield User,
-186,Dual Swords User,
-187,Great Sword User,
-188,Long Sword User,
-189,Hammer User,
-190,Hunting Horn User,
-191,Lance User,
-192,Gunlance User,
-193,Light Bowgun User,
-194,Heavy Bowgun User,
-195,Bow User,
-196,Guild's Mascot,
-197,Guild Member,
-198,Abiorugu Hunter,
-199,Moody Person,
-200,Zamuza Hunter,
-201,Taikun,
-202,Kuarusepusu Hunter,
-203,Heavenly Force,
-204,Unaffected,
-205,Black Emperor,
-206,Blue Flame Champion,
-207,Cannon Emperor,
-208,Desert Champion,
-209,Supreme Drunk,
-210,Hungry Champion,
-211,Dark Overlord,
-212,Phantom Champion,
-213,Flame Overlord,
-214,Flaming Champion,
-215,Twin Overlord,
-216,Double Champion,
-217,Supreme Conqueror,
-218,Spinner of Secrets,
-219,Devoted Husband,
-220,Innocence,
-221,Funky,
-222,Lightning in a Bottle,
-223,Cunning,
-224,Problem Solver,
-225,Recluse,
-226,Domination,
-227,Hooligan,
-228,Pushing Onwards,
-229,Villain,
-230,Three Foot Frost,
-231,Nothingness,
-232,Indomitable,
-233,Storm of Stones,
-234,Flash of Lightning,
-235,Fearless,
-236,All or Nothing,
-237,Dreamchaser,
-238,Flawless,
-239,Mythology,
-240,Polar Sea Guide,
-241,Fighting Spirit,
-242,Burning Rage,
-243,Crimson,
-244,Mysterious,
-245,Splendour,
-246,Lightbeam,
-247,Ruinous Star,
-248,Black Gold,
-249,Solitary Struggle,
-250,One Hundred Blossoms,
-251,With a Single Blow,
-252,Ruinous Flames,
-253,Tonfa User,
-254,Flower Field Guide,
-255,Gorgeous,
-256,Swift Thunder,
-257,Sparkling,
-258,Dazzling,
-259,Grace,
-260,Hero's Strength,
-261,Antinomy,
-262,Lord of Freezing Flame,
-263,Finishing Touch,
-264,Ruler of the Blue Flame,
-265,Performer,
-266,Supporter,
-267,Extreme Ice,
-268,Unstoppable Fortitude,
-269,Burning Horns,
-270,High Spirits,
-271,Surging Fury,
-272,Torrential Force,
-273,Flowing,
-274,Transmigration,
-275,Transformation,
-276,Two Sides of a Coin,
-277,Quaking Thunder,
-278,Ten Thousand Bolts,
-279,White Lake Guide,
-280,Floating Peak,
-281,Ryorakinshu,
-282,Absolute Ice,
-283,Unchained,
-284,Insatiable,
-285,Survival of the Fittest,
-286,Blasting,
-287,Doing Your Best,
-288,Making Progress,
-289,Resplendent Grace,
-290,Advancing Ice,
-291,Bringer of Frost,
-292,Moment of Violence,
-293,Moment of Thirst,
-294,Rockbreaker,
-295,"Supreme Lustre ""Flash""",
-296,"Supreme Lustre ""Shine""",
-297,"Supreme Lustre ""Glory""",
-298,"Supreme Lustre ""Clear""",
-299,Master of Ultraviolence,
-300,Snowstorm,
-301,Freezing Winds,
-302,Blunt Force,
-303,Explosive Applause,
-304,Master of Moonlight,
-305,Imperial Majesty,
-306,Majestic Ruler,
-307,Sharp Speed,
-308,Traceless Shadow,
-309,Switch Axe User,
-310,Calamitous Moment,
-311,Asura,
-312,Man-Eating Demon,
-313,Cerberus,
-314,Vigilant Wolf,
-315,Ruling Conqueror,
-316,I have a log!,
-317,I love Salmon Roe,
-318,I love Salmon,
-319,This is a good log...,
-320,Painted Falls Guide,
-321,Sword Dancer,
-322,Decisive Slice,
-323,Calamity,
-324,Spotless,
-325,Poisonous Horn,
-326,Burning Wings,
-327,Immortal Shield,
-328,Grotesque Face,
-329,The Bird's Lullabye,
-330,Master of Interception,
-331,Crushing Arms,
-332,Honorable Hunter,
-333,Dazzling Tail,
-334,Rending Claws,
-335,Master of Speed,
-336,Gigantic Peak,
-337,Senshi,
-338,Shogun,
-339,Emperor,
-340,Clan 1,
-341,Clan 2,
-342,Stimulating Needles,
-343,Iceberg Tail,
-344,Polar Light,
-345,Mountain God's Fury,
-346,Living Machine,
-347,YoRHa Forces,
-348,Resistance,
-349,Rivalry,
-350,Heaven's Contradiction,
-351,The Origin,
-352,Everlasting,
-353,Explosive Legs,
-354,Clean Sweep,
-355,Decisive Fortitude,
-356,Master of Road,
-357,Hunter's Road Traveller,
-358,Hunter's Road Demon,
-359,What's a shop..?,
-360,Magnetic Wings,
-361,Remarkable Face,
-362,Heavenly War,
-363,Heaven's Dancing Dragon,
-364,Lantern Tail,
-365,Master of Equilibrium,
-366,Dream Conqueror,
-367,Void Conqueror,
-368,Ruinous Star Conqueror,
-369,Ruinous Flame Conqueror,
-370,Extreme Conqueror,
-371,Red Moon Hunter,
-372,Eternal Hunter,
-373,I Love Singing,
-374,Diva Fanatic,
-375,Diva's Defender,
-376,Diva,
-377,Emperor of Roses,
-378,Knight of the Sun,
-379,Hunting Rd P Ranking,
-380,Hunting Road S Ranking,
-381,Saint of Salvation,
-382,Knight of Treachery,
-383,Dragon Slayer,
-384,Knight of Phantom Horse,
-385,Dazzling Wings,
-386,Lunatic Horn,
-387,Master of Arrogance,
-388,Lonely Wolf,
-389,Master of Solitude,
-390,One Hundred Battles,
-391,Flame Tyrant Slayer!,
-392,Surely a Lunatic,
-393,Crushing Palms,
-394,Cutting Winds,
-395,Slicing Skies,
-396,Piercing Horn,
-397,Sniper,
-398,Master of Nyanrendo,
-399,Hurrah for Honey!,
-400,Gook Scoop Master,
-401,I love Dokkan!,
-402,Partnyaa  Love,
-403,Pakkun Master,
-404,Pro Gamer,
-405,Explosive Limbs,
-406,Volcanic Body,
-407,Latching Head,
-408,Master of Explosions,
-409,"Eternal Lustre ""Flash""",
-410,"Eternal Lustre ""Shine""",
-411,"Eternal Lustre ""Glory""",
-412,"Eternal Lustre ""Clear""",
-413,I played with Rappy!,
-414,RARE DROP☆KOI☆KOI!,
-415,Master of Hunting,
-416,Magspike User,
-417,New Power,
-418,I love E-Tanks!,
-419,Tiun Tiun,
-420,Strange Claws,
-421,Red and Silver Skull,
-422,Red Radiance,
+0,None,None
+1,Novice,Novice
+2,Veteran,Veteran
+3,Skilled Hunter,Skilled Hunter
+4,Vagrant,Vagrant
+5,Stranger,Stranger
+6,Ranger,Ranger
+7,Rookie Hunter,Rookie Hunter
+8,Woodsman,Woodsman
+9,Warden,Warden
+10,Beast Slayer,Beast Slayer
+11,Bone Duster,Bone Duster
+12,Warrior,Warrior
+13,Bullfighter,Bullfighter
+14,Berserker,Berserker
+15,Mercenary,Mercenary
+16,Bounty Hunter,Bounty Hunter
+17,Veteran Attacker,Veteran Attacker
+18,Iron Breaker,Iron Breaker
+19,Samurai,Samurai
+20,Grand Walker,Grand Walker
+21,Strider,Strider
+22,Explorer,Explorer
+23,Forest Guardian,Forest Guardian
+24,Road of Hunter,Road of Hunter
+25,Glorious Braver,Glorious Braver
+26,Champion,Champion
+27,Hero,Hero
+28,Monster Hunter,Monster Hunter
+29,Legend,Legend
+30,Bourgeois Hunter,Bourgeois Hunter
+31,Dedicated Hunter,Dedicated Hunter
+32,Combination Sage,Combination Sage
+33,Gourmand,Gourmand
+34,Royal Host,Royal Host
+35,Popular,Popular
+36,Arm Wrestler,Arm Wrestler
+37,Heavy Drinker,Heavy Drinker
+38,Sniper,Sniper
+39,Treasure Hunter,Treasure Hunter
+40,Mayoral Candidate,Mayoral Candidate
+41,Velocidrome Hunter,Velocidrome Hunter
+42,Gendrome Hunter,Gendrome Hunter
+43,Iodrome Hunter,Iodrome Hunter
+44,Bulldrome Hunter,Bulldrome Hunter
+45,Kut-Ku Hunter,Kut-Ku Hunter
+46,Gypceros Hunter,Gypceros Hunter
+47,Cephadrome Hunter,Cephadrome Hunter
+48,Rathian Hunter,Rathian Hunter
+49,Khezu Hunter,Khezu Hunter
+50,Plesioth Hunter,Plesioth Hunter
+51,Monoblos Hunter,Monoblos Hunter
+52,Diablos Hunter,Diablos Hunter
+53,Basarios Hunter,Basarios Hunter
+54,Gravios Hunter,Gravios Hunter
+55,Rathalos Hunter,Rathalos Hunter
+56,Kirin Hunter,Kirin Hunter
+57,Garuga Hunter,Garuga Hunter
+58,Daimyo Hunter,Daimyo Hunter
+59,Shogun Hunter,Shogun Hunter
+60,Blangonga Hunter,Blangonga Hunter
+61,Congalala Hunter,Congalala Hunter
+62,Kushala Hunter,Kushala Hunter
+63,Chameleos Hunter,Chameleos Hunter
+64,Teo Hunter,Teo Hunter
+65,Luna Hunter,Luna Hunter
+66,Blue Claws,Blue Claws
+67,Green Fangs,Green Fangs
+68,Red Poison,Red Poison
+69,Reckless,Reckless
+70,Red Bird,Red Bird
+71,Flash,Flash
+72,Desert Sand,Desert Sand
+73,Wyvern Princess,Wyvern Princess
+74,White Shadow,White Shadow
+75,Torrent,Torrent
+76,One-Horn,One-Horn
+77,Twin Demon,Twin Demon
+78,Hidden Rock,Hidden Rock
+79,Flaming Mountain,Flaming Mountain
+80,Monarch,Monarch
+81,Thunder God,Thunder God
+82,Black Wolf,Black Wolf
+83,Solid Shield,Solid Shield
+84,Sharp Sword,Sharp Sword
+85,Strength,Strength
+86,Clown,Clown
+87,Storm,Storm
+88,Iridescence,Iridescence
+89,Flame Emperor,Flame Emperor
+90,Hellfire,Hellfire
+91,Gold,Gold
+92,Windstorm,Windstorm
+93,Walking Fortress,Walking Fortress
+94,Approaching Dragon,Approaching Dragon
+95,Floating Mountain,Floating Mountain
+96,Dragon Killer,Dragon Killer
+97,Dragon King,Dragon King
+98,Dragon Emperor,Dragon Emperor
+99,Capture God,Capture God
+100,Giant,Giant
+101,Gigantic,Gigantic
+102,King of Kings,King of Kings
+103,Big King,Big King
+104,Master of Giants,Master of Giants
+105,Titan,Titan
+106,Micro,Micro
+107,Minimum,Minimum
+108,Chicken of Chicken,Chicken of Chicken
+109,Sword and Shield Maniac,Sword and Shield Maniac
+110,Greatsword Maniac,Greatsword Maniac
+111,Lance Maniac,Lance Maniac
+112,Hammer Maniac,Hammer Maniac
+113,Dual Blade Maniac,Dual Blade Maniac
+114,Light Bowgun Maniac,Light Bowgun Maniac
+115,Heavy Bowgun Maniac,Heavy Bowgun Maniac
+116,Longsword Maniac,Longsword Maniac
+117,Bow Maniac,Bow Maniac
+118,Gunlance Maniac,Gunlance Maniac
+119,Hunting Horn Maniac,Hunting Horn Maniac
+120,Weapon Master,Weapon Master
+121,Well Dressed,Well Dressed
+122,Fashion Leader,Fashion Leader
+123,Dr. Mushroom,Dr. Mushroom
+124,Mushroom Master,Mushroom Master
+125,Egg Thief,Egg Thief
+126,Crystal Hunter,Crystal Hunter
+127,Danger Hunter,Danger Hunter
+128,Alpinist,Alpinist
+129,Mule,Mule
+130,Jungle Guide,Jungle Guide
+131,Desert Guide,Desert Guide
+132,Swamp Guide,Swamp Guide
+133,Mountain Guide,Mountain Guide
+134,Volcano Guide,Volcano Guide
+135,Forest & Hills Guide,Forest & Hills Guide
+136,Dojo Point Earner,Dojo Point Earner
+137,Dojo Coin Master,Dojo Coin Master
+138,Dojo High Scorer,Dojo High Scorer
+139,Dojo Teacher,Dojo Teacher
+140,Dojo Instructor,Dojo Instructor
+141,Beast Master,Beast Master
+142,Beast Failure,Beast Failure
+143,Guild Knight,Guild Knight
+144,Guild's Trumpcard,Guild's Trumpcard
+145,Jumbo Hero,Jumbo Hero
+146,Tavern Hero,Tavern Hero
+147,Hero of Dundorma,Hero of Dundorma
+148,Hypnoc Hunter,Hypnoc Hunter
+149,Volganos Hunter,Volganos Hunter
+150,Tigrex Hunter,Tigrex Hunter
+151,Akantor Hunter,Akantor Hunter
+152,Espinas Hunter,Espinas Hunter
+153,Akura Hunter,Akura Hunter
+154,Berukyurosu Hunter,Berukyurosu Hunter
+155,Pariapuria Hunter,Pariapuria Hunter
+156,Kamu Hunter,Kamu Hunter
+157,Nono Hunter,Nono Hunter
+158,Dyuragaua Hunter,Dyuragaua Hunter
+159,Gurenzeburu Hunter,Gurenzeburu Hunter
+160,Rukodiora Hunter,Rukodiora Hunter
+161,Gogomoa Hunter,Gogomoa Hunter
+162,Deep Sleep,Deep Sleep
+163,Lava,Lava
+164,Roaring Tiger,Roaring Tiger
+165,Overlord,Overlord
+166,Awakening,Awakening
+167,Metamorphosis,Metamorphosis
+168,Thunder,Thunder
+169,Binge Eater,Binge Eater
+170,Twin Fangs,Twin Fangs
+171,Twin Roars,Twin Roars
+172,Ice Attack,Ice Attack
+173,Waterfall,Waterfall
+174,Two Poles,Two Poles
+175,Leaping Shadow,Leaping Shadow
+176,King's Fang,King's Fang
+177,Phantom Hunter,Phantom Hunter
+178,Impulses,Impulses
+179,Great Forest Guide,Great Forest Guide
+180,Canyon Guide,Canyon Guide
+181,Highlands Guide,Highlands Guide
+182,Tidal Island Guide,Tidal Island Guide
+183,Familial Love,Familial Love
+184,Hunter of Legend,Hunter of Legend
+185,Sword & Shield User,Sword & Shield User
+186,Dual Swords User,Dual Swords User
+187,Great Sword User,Great Sword User
+188,Long Sword User,Long Sword User
+189,Hammer User,Hammer User
+190,Hunting Horn User,Hunting Horn User
+191,Lance User,Lance User
+192,Gunlance User,Gunlance User
+193,Light Bowgun User,Light Bowgun User
+194,Heavy Bowgun User,Heavy Bowgun User
+195,Bow User,Bow User
+196,Guild's Mascot,Guild's Mascot
+197,Guild Member,Guild Member
+198,Abiorugu Hunter,Abiorugu Hunter
+199,Moody Person,Moody Person
+200,Zamuza Hunter,Zamuza Hunter
+201,Taikun,Taikun
+202,Kuarusepusu Hunter,Kuarusepusu Hunter
+203,Heavenly Force,Heavenly Force
+204,Unaffected,Unaffected
+205,Black Emperor,Black Emperor
+206,Blue Flame Champion,Blue Flame Champion
+207,Cannon Emperor,Cannon Emperor
+208,Desert Champion,Desert Champion
+209,Supreme Drunk,Supreme Drunk
+210,Hungry Champion,Hungry Champion
+211,Dark Overlord,Dark Overlord
+212,Phantom Champion,Phantom Champion
+213,Flame Overlord,Flame Overlord
+214,Flaming Champion,Flaming Champion
+215,Twin Overlord,Twin Overlord
+216,Double Champion,Double Champion
+217,Supreme Conqueror,Supreme Conqueror
+218,Spinner of Secrets,Spinner of Secrets
+219,Devoted Husband,Devoted Husband
+220,Innocence,Innocence
+221,Funky,Funky
+222,Lightning in a Bottle,Lightning in a Bottle
+223,Cunning,Cunning
+224,Problem Solver,Problem Solver
+225,Recluse,Recluse
+226,Domination,Domination
+227,Hooligan,Hooligan
+228,Pushing Onwards,Pushing Onwards
+229,Villain,Villain
+230,Three Foot Frost,Three Foot Frost
+231,Nothingness,Nothingness
+232,Indomitable,Indomitable
+233,Storm of Stones,Storm of Stones
+234,Flash of Lightning,Flash of Lightning
+235,Fearless,Fearless
+236,All or Nothing,All or Nothing
+237,Dreamchaser,Dreamchaser
+238,Flawless,Flawless
+239,Mythology,Mythology
+240,Polar Sea Guide,Polar Sea Guide
+241,Fighting Spirit,Fighting Spirit
+242,Burning Rage,Burning Rage
+243,Crimson,Crimson
+244,Mysterious,Mysterious
+245,Splendour,Splendour
+246,Lightbeam,Lightbeam
+247,Ruinous Star,Ruinous Star
+248,Black Gold,Black Gold
+249,Solitary Struggle,Solitary Struggle
+250,One Hundred Blossoms,One Hundred Blossoms
+251,With a Single Blow,With a Single Blow
+252,Ruinous Flames,Ruinous Flames
+253,Tonfa User,Tonfa User
+254,Flower Field Guide,Flower Field Guide
+255,Gorgeous,Gorgeous
+256,Swift Thunder,Swift Thunder
+257,Sparkling,Sparkling
+258,Dazzling,Dazzling
+259,Grace,Grace
+260,Hero's Strength,Hero's Strength
+261,Antinomy,Antinomy
+262,Lord of Freezing Flame,Lord of Freezing Flame
+263,Finishing Touch,Finishing Touch
+264,Ruler of the Blue Flame,Ruler of the Blue Flame
+265,Performer,Performer
+266,Supporter,Supporter
+267,Extreme Ice,Extreme Ice
+268,Unstoppable Fortitude,Unstoppable Fortitude
+269,Burning Horns,Burning Horns
+270,High Spirits,High Spirits
+271,Surging Fury,Surging Fury
+272,Torrential Force,Torrential Force
+273,Flowing,Flowing
+274,Transmigration,Transmigration
+275,Transformation,Transformation
+276,Two Sides of a Coin,Two Sides of a Coin
+277,Quaking Thunder,Quaking Thunder
+278,Ten Thousand Bolts,Ten Thousand Bolts
+279,White Lake Guide,White Lake Guide
+280,Floating Peak,Floating Peak
+281,Ryorakinshu,Ryorakinshu
+282,Absolute Ice,Absolute Ice
+283,Unchained,Unchained
+284,Insatiable,Insatiable
+285,Survival of the Fittest,Survival of the Fittest
+286,Blasting,Blasting
+287,Doing Your Best,Doing Your Best
+288,Making Progress,Making Progress
+289,Resplendent Grace,Resplendent Grace
+290,Advancing Ice,Advancing Ice
+291,Bringer of Frost,Bringer of Frost
+292,Moment of Violence,Moment of Violence
+293,Moment of Thirst,Moment of Thirst
+294,Rockbreaker,Rockbreaker
+295,"Supreme Lustre ""Flash""","Supreme Lustre ""Flash"""
+296,"Supreme Lustre ""Shine""","Supreme Lustre ""Shine"""
+297,"Supreme Lustre ""Glory""","Supreme Lustre ""Glory"""
+298,"Supreme Lustre ""Clear""","Supreme Lustre ""Clear"""
+299,Master of Ultraviolence,Master of Ultraviolence
+300,Snowstorm,Snowstorm
+301,Freezing Winds,Freezing Winds
+302,Blunt Force,Blunt Force
+303,Explosive Applause,Explosive Applause
+304,Master of Moonlight,Master of Moonlight
+305,Imperial Majesty,Imperial Majesty
+306,Majestic Ruler,Majestic Ruler
+307,Sharp Speed,Sharp Speed
+308,Traceless Shadow,Traceless Shadow
+309,Switch Axe User,Switch Axe User
+310,Calamitous Moment,Calamitous Moment
+311,Asura,Asura
+312,Man-Eating Demon,Man-Eating Demon
+313,Cerberus,Cerberus
+314,Vigilant Wolf,Vigilant Wolf
+315,Ruling Conqueror,Ruling Conqueror
+316,I have a log!,I have a log!
+317,I love Salmon Roe,I love Salmon Roe
+318,I love Salmon,I love Salmon
+319,This is a good log...,This is a good log...
+320,Painted Falls Guide,Painted Falls Guide
+321,Sword Dancer,Sword Dancer
+322,Decisive Slice,Decisive Slice
+323,Calamity,Calamity
+324,Spotless,Spotless
+325,Poisonous Horn,Poisonous Horn
+326,Burning Wings,Burning Wings
+327,Immortal Shield,Immortal Shield
+328,Grotesque Face,Grotesque Face
+329,The Bird's Lullabye,The Bird's Lullabye
+330,Master of Interception,Master of Interception
+331,Crushing Arms,Crushing Arms
+332,Honorable Hunter,Honorable Hunter
+333,Dazzling Tail,Dazzling Tail
+334,Rending Claws,Rending Claws
+335,Master of Speed,Master of Speed
+336,Gigantic Peak,Gigantic Peak
+337,Senshi,Senshi
+338,Shogun,Shogun
+339,Emperor,Emperor
+340,Clan 1,Clan 1
+341,Clan 2,Clan 2
+342,Stimulating Needles,Stimulating Needles
+343,Iceberg Tail,Iceberg Tail
+344,Polar Light,Polar Light
+345,Mountain God's Fury,Mountain God's Fury
+346,Living Machine,Living Machine
+347,YoRHa Forces,YoRHa Forces
+348,Resistance,Resistance
+349,Rivalry,Rivalry
+350,Heaven's Contradiction,Heaven's Contradiction
+351,The Origin,The Origin
+352,Everlasting,Everlasting
+353,Explosive Legs,Explosive Legs
+354,Clean Sweep,Clean Sweep
+355,Decisive Fortitude,Decisive Fortitude
+356,Master of Road,Master of Road
+357,Hunter's Road Traveller,Hunter's Road Traveller
+358,Hunter's Road Demon,Hunter's Road Demon
+359,What's a shop..?,What's a shop..?
+360,Magnetic Wings,Magnetic Wings
+361,Remarkable Face,Remarkable Face
+362,Heavenly War,Heavenly War
+363,Heaven's Dancing Dragon,Heaven's Dancing Dragon
+364,Lantern Tail,Lantern Tail
+365,Master of Equilibrium,Master of Equilibrium
+366,Dream Conqueror,Dream Conqueror
+367,Void Conqueror,Void Conqueror
+368,Ruinous Star Conqueror,Ruinous Star Conqueror
+369,Ruinous Flame Conqueror,Ruinous Flame Conqueror
+370,Extreme Conqueror,Extreme Conqueror
+371,Red Moon Hunter,Red Moon Hunter
+372,Eternal Hunter,Eternal Hunter
+373,I Love Singing,I Love Singing
+374,Diva Fanatic,Diva Fanatic
+375,Diva's Defender,Diva's Defender
+376,Diva,Diva
+377,Emperor of Roses,Emperor of Roses
+378,Knight of the Sun,Knight of the Sun
+379,Hunting Rd P Ranking,Hunting Rd P Ranking
+380,Hunting Road S Ranking,Hunting Road S Ranking
+381,Saint of Salvation,Saint of Salvation
+382,Knight of Treachery,Knight of Treachery
+383,Dragon Slayer,Dragon Slayer
+384,Knight of Phantom Horse,Knight of Phantom Horse
+385,Dazzling Wings,Dazzling Wings
+386,Lunatic Horn,Lunatic Horn
+387,Master of Arrogance,Master of Arrogance
+388,Lonely Wolf,Lonely Wolf
+389,Master of Solitude,Master of Solitude
+390,One Hundred Battles,One Hundred Battles
+391,Flame Tyrant Slayer!,Flame Tyrant Slayer!
+392,Surely a Lunatic,Surely a Lunatic
+393,Crushing Palms,Crushing Palms
+394,Cutting Winds,Cutting Winds
+395,Slicing Skies,Slicing Skies
+396,Piercing Horn,Piercing Horn
+397,Sniper,Sniper
+398,Master of Nyanrendo,Master of Nyanrendo
+399,Hurrah for Honey!,Hurrah for Honey!
+400,Gook Scoop Master,Gook Scoop Master
+401,I love Dokkan!,I love Dokkan!
+402,Partnyaa  Love,Partnyaa  Love
+403,Pakkun Master,Pakkun Master
+404,Pro Gamer,Pro Gamer
+405,Explosive Limbs,Explosive Limbs
+406,Volcanic Body,Volcanic Body
+407,Latching Head,Latching Head
+408,Master of Explosions,Master of Explosions
+409,"Eternal Lustre ""Flash""","Eternal Lustre ""Flash"""
+410,"Eternal Lustre ""Shine""","Eternal Lustre ""Shine"""
+411,"Eternal Lustre ""Glory""","Eternal Lustre ""Glory"""
+412,"Eternal Lustre ""Clear""","Eternal Lustre ""Clear"""
+413,I played with Rappy!,I played with Rappy!
+414,RARE DROP☆KOI☆KOI!,RARE DROP☆KOI☆KOI!
+415,Master of Hunting,Master of Hunting
+416,Magspike User,Magspike User
+417,New Power,New Power
+418,I love E-Tanks!,I love E-Tanks!
+419,Tiun Tiun,Tiun Tiun
+420,Strange Claws,Strange Claws
+421,Red and Silver Skull,Red and Silver Skull
+422,Red Radiance,Red Radiance
